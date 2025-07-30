@@ -1,0 +1,13 @@
+Task;Predecessors;Duration
+A;;6
+B;;8
+C;;10
+D;A;2
+E;A;3
+F;B;5
+G;C;4
+H;G;3
+I;E,F;7
+J;I,H;5
+K;D;4
+L;J,K;3

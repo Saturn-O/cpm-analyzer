@@ -1,0 +1,9 @@
+Task;Predecessors;Duration
+A;;6
+B;;8
+C;A,B;12
+D;C;4
+E;C;6
+F;D,E;15
+G;E;12
+H;F,G;8
